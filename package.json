@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "skylark-domx": "git+https://github.com/skylark-domx/skylark-domx.git#master",
-    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git#master",
-    "skylark-widgets-base": "git+https://github.com/skylark-widgets/skylark-widgets-base.git#master"
+    "skylark-domx": "git+https://github.com/skylark-domx/skylark-domx.git",
+    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git",
+    "skylark-widgets-base": "git+https://github.com/skylark-widgets/skylark-widgets-base.git"
   },
   "engines": {
     "node": ">=0.10.1"
