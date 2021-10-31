@@ -1,7 +1,7 @@
 define([
 	"./medias",
 	"./media"
-],function(medias,media){
+],function(medias,Media){
 	"use strict";
 
 	/**
