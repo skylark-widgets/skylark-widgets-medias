@@ -587,7 +587,7 @@ define('skylark-widgets-medias/media',[
 define('skylark-widgets-medias/video-player',[
 	"./medias",
 	"./media"
-],function(medias,media){
+],function(medias,Media){
 	"use strict";
 
 	/**
